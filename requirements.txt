@@ -1,0 +1,3 @@
+opencv-python==4.8.0.76
+cvzone==1.6.1
+numpy==1.26.4
